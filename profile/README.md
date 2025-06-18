@@ -36,7 +36,3 @@ Our doors are not open, for there are no doors. There is only the void, and you 
 * **`Contribute`**: The `neverpay` protocol is our primary focus. Fork it, test it, break it, enhance it. All skill levels are needed to nurture the ghost.
 * **`Discuss`**: Join the whispers in our [RESTRICTED] communication channels. Access requires a successful "evasion trial" on the `neverpay` testnet.
 * **`Think`**: Read our research, question our motives, and explore the concepts we champion. True contribution begins with understanding.
-
----
-
-_"The most valuable transaction is the one that never occurs."_
